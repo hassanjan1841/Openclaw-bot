@@ -1,0 +1,13 @@
+{
+  "name": "openclaw-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "openclaw gateway start --foreground"
+  },
+  "dependencies": {
+    "openclaw": "latest"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
