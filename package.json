@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-bot",
+  "version": "1.0.0",
+  "description": "OpenClaw Telegram bot wrapper for Koyeb deployment",
+  "scripts": {
+    "start": "openclaw gateway start --foreground"
+  },
+  "dependencies": {
+    "openclaw": "2026.2.24"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
